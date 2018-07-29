@@ -1,0 +1,47 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button renders correctly 1`] = `
+<div
+  className="btn-container large"
+>
+  <button
+    className="btn"
+    onClick={[Function]}
+    type="button"
+  >
+    Button CTA
+  </button>
+  <Tooltip
+    active={false}
+    items={
+      Array [
+        Object {
+          "icon": [Function],
+          "id": 0,
+          "text": "Button Call To Action Longer",
+        },
+        Object {
+          "icon": [Function],
+          "id": 1,
+          "text": "Button Call To Action Longer",
+        },
+        Object {
+          "icon": [Function],
+          "id": 2,
+          "text": "Button Call To Action Longer",
+        },
+        Object {
+          "icon": [Function],
+          "id": 3,
+          "text": "Button Call To Action Longer",
+        },
+        Object {
+          "icon": [Function],
+          "id": 4,
+          "text": "Button Call To Action Longer",
+        },
+      ]
+    }
+  />
+</div>
+`;

@@ -1,0 +1,12 @@
+.App {
+  display: flex;
+}
+
+.button-type {
+  flex-direction: column;
+  margin: 10px;
+}
+
+.button-type p {
+  text-align: center;
+}

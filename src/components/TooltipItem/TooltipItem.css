@@ -1,0 +1,16 @@
+.tooltip-item {
+  height: 36px;
+  padding: 7px 10px 9px 10px;
+  color: #ffffff;
+  box-sizing: border-box;
+}
+
+.tooltip-item:hover {
+  background-color: #4f4f4f;
+  cursor: pointer;
+}
+
+.tooltip-item span {
+  padding-left: 10px;
+  vertical-align: super;
+}
